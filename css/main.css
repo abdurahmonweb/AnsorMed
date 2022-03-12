@@ -123,6 +123,7 @@ body{
     letter-spacing: 15.23;
     text-decoration: none;
     display: inline-block;
+    cursor: pointer;
 }
 .hero__btn:hover{ 
     opacity: 0.8;
