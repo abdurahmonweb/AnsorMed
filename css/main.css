@@ -33,11 +33,10 @@ body{
     align-items: center;
 }
 .header__title{ 
+    font-weight:bold;
     text-decoration: none;
     color: #222; 
     margin-left: 16px;
-    font-family:'Roboto', Arial, sans-serif ;
-    font-weight:bold;
 }
 .header__title:hover{ 
     color:rgba(222, 46, 84, 1) ; 
@@ -102,11 +101,11 @@ body{
     justify-content: space-between;
     align-items: center; 
 }
-.hero_content {
-    width: 500px;
-}
 .hero__title{ 
-    font-family: 'Roboto', Arial, sans-serif;
+    font-weight: 700 bold;
+    font-size: 36px;
+    font-style: bold;
+    line-height: 43.2px;
     margin-top: 0;
     margin-bottom: 16px;
 }
